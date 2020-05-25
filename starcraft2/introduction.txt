@@ -1,0 +1,35 @@
+데이콘(Dacon.io) 공모전 월간 데이콘 3 행동 데이터 분석 대회 - 스타크래프트2 
+
+train.csv / test.csv
+
+game_id : 경기 구분 기호
+winner : player 1의 승리 확률
+time : 경기 시간, 마침표(.)로 분과 초가 구분됩니다. ex) 2.24 = 2분 24초
+player : 선수
+##1) 0: player 0
+##2) 1: player 1
+
+species : 종족
+##1) T: 테란
+##2) P: 프로토스
+##3) Z: 저그
+
+event : 행동 종류
+event_contents : 행동 상세
+##1) Ability : 생산, 공격 등 선수의 주요 행동
+##2) AddToControlGroup : 부대에 추가
+##3) Camera : 시점 선택
+##4) ControlGroup : 부대 행동
+##5) GetControlGroup : 부대 불러오기
+##6) Right Click : 마우스 우클릭
+##7) Selection : 객체 선택
+##8) SetControlGroup : 부대 지정
+
+1. [전처리] event_contents 별로 데이터 정리
+1) Right Click 데이터
+2) Selection 데이터
+3) Camera 데이터
+
+2. 모델링
+-RF,XGB,LGBM 중 LGBM이 가장 우수한 성능을 보임
+

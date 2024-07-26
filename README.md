@@ -12,3 +12,4 @@
 - Award: 1st Place (Grand Prize)
 - Host: Health Insurance Review & Assessment Service (HIRA)
 - Description: Awarded 1st place and the Grand Prize in the Big Data Startup Competition hosted by HIRA. Recognized for exceptional performance and innovative solutions in the field of big data and entrepreneurship.
+![image](https://github.com/user-attachments/assets/9e028b01-8b7c-48ec-840a-2e1faafedae6)

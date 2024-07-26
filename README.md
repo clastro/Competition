@@ -11,5 +11,10 @@
 
 - Award: 1st Place (Grand Prize)
 - Host: Health Insurance Review & Assessment Service (HIRA)
-- Description: Awarded 1st place and the Grand Prize in the Big Data Startup Competition hosted by HIRA. Recognized for exceptional performance and innovative solutions in the field of big data and entrepreneurship.
-![image](https://github.com/user-attachments/assets/9e028b01-8b7c-48ec-840a-2e1faafedae6)
+- Description: Awarded 1st place and the Grand Prize in the Big Data Startup Competition hosted by HIRA. Recognized for exceptional performance and innovative solutions in the field of big data and entrepreneurship. Developed a comprehensive healthcare platform utilizing multi-modality learning techniques. This platform integrates various data types and sources to provide holistic health management and personalized insights. The approach leverages multi-modal data (e.g., imaging, text, and sensor data) to enhance predictive accuracy and improve overall healthcare outcomes.
+  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e028b01-8b7c-48ec-840a-2e1faafedae6" alt="MUG-ECG" width="300"/>
+</p>
+

@@ -15,6 +15,6 @@
   
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e028b01-8b7c-48ec-840a-2e1faafedae6" alt="MUG-ECG" width="300"/>
+  <img src="https://github.com/user-attachments/assets/9e028b01-8b7c-48ec-840a-2e1faafedae6" alt="MUG-ECG" width="700"/>
 </p>
 

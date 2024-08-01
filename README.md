@@ -3,7 +3,7 @@
 ## Achievements
 
 ### Starcraft II Monthly Dacon Action Data Analysis AI Competition ( 2020.03.01 ~ 2020.04.15 )
-f
+
 - Final Ranking: Top 4% (5th place) 
 - Description: Ranked in the top 4% of participants in the Starcraft II Monthly Dacon Action Data Analysis AI Competition. This competition focused on developing AI solutions for analyzing in-game action data.
 

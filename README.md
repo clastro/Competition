@@ -7,7 +7,7 @@
 - Final Ranking: Top 4% (5th place) 
 - Description: Ranked in the top 4% of participants in the Starcraft II Monthly Dacon Action Data Analysis AI Competition. This competition focused on developing AI solutions for analyzing in-game action data.
 
-### Big Data Startup Competition ( 2024.4.10 ~ 2024.7.17 )
+### Big Data Startup Competition ( 2024.4.07 ~ 2024.7.17 )
 
 - Award: 1st Place (Grand Prize)
 - Host: Health Insurance Review & Assessment Service (HIRA)
